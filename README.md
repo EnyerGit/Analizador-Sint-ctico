@@ -1,5 +1,5 @@
 # Analizador-Sint-ctico
-Analizador sintáctico integrado al analizador léxico que habría realizado anteriormente.
+Analizador sintáctico integrado al analizador léxico realicé anteriormente.
 Este proyecto implementa las dos primeras fases de un compilador:
 
 Análisis Léxico: Convierte el código fuente en tokens usando Flex
